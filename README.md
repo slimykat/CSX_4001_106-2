@@ -13,9 +13,21 @@ Week_2
 		practice 1 2 finished
 		checking out the crawler example
 		install packages
-		add the PChomeRCrawler.html url to README.md
-		 
-		https://slimykat.github.io/CSX_4001_106-2/week_2/task_2_example/PChomeRCrawler.html
+		add the PChomeRCrawler.html url to README.md		 
+
+PChomeRCrawler.html:
+https://slimykat.github.io/CSX_4001_106-2/week_2/task_2_example/PChomeRCrawler.html
+
+	個人進度：
+		task_2 complete (3/9)
+		read some resources
+
+2018WinterParalympic_team_Crawler.html:
+https://slimykat.github.io/CSX_4001_106-2/week_2/task_2/2018WinterParalympic_team_Crawler.html
+
+	resources:
+		http://brucehau.blogspot.tw/2016/09/rrvest.html
+		https://knowlab.wordpress.com/2016/12/05/%E4%BB%A5-r-markdown-%E8%BC%95%E9%AC%86%E7%B7%A8%E8%BC%AF%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A%EF%BC%88%E4%B8%8A%EF%BC%89/
 
 #================================================================
 
@@ -25,5 +37,6 @@ Week_1
 		pull week_1 from github
 		practice 1 2 3 finished
 		homework partially done
+
 	個人進度：
 		homework finished (3/1 中午)
