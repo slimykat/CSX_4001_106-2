@@ -1,0 +1,28 @@
+---
+title: "2018WinterParalympic_team_Crawler"
+author: "slimykat"
+date: "2018年3月9日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 2018WinterParalympic_team_Crawler.r
+
+```{r 2018WinterParalympic_team_Crawler}
+library(httr)
+library(rvest)
+url <- "https://zh.wikipedia.org/wiki/2018年冬季残奥会"
+title <- read_html(url)
+title <- html_nodes(title,".thumbborder+ a") 
+text <- html_text(title)
+```
+
+## Show Results
+
+```{r Table}
+library(knitr)
+kable(text , col.names = "參賽隊伍")
+```
