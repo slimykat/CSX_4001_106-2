@@ -19,11 +19,11 @@
 	個人進度：
 		1. refined E.A_craler.r (3/15)
 
-[E.A_crawler.html]()
+[E.A_crawler.html](https://github.com/slimykat/CSX_4001_106-2/week_3/task/E.A_crawler.html )
 
 resources:
-http://blog.fens.me/r-stringr/
-https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r
+1.	[粉絲日誌](http://blog.fens.me/r-stringr/)
+2.	[stackoverflow](https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r)
 
 =====================================================================================
 
