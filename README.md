@@ -19,7 +19,7 @@
 	個人進度：
 		1. refined E.A_craler.r (3/15)
 
-[E.A_crawler.html](https://github.com/slimykat/CSX_4001_106-2/week_3/task/E.A_crawler.html )
+[E.A_crawler.html](https://slimykat.github.io/CSX_4001_106-2/week_3/task/E.A_crawler.html )
 
 resources:
 1.	[粉絲日誌](http://blog.fens.me/r-stringr/)
