@@ -1,0 +1,36 @@
+---
+title: "crawler.md"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Code
+
+```{r crawler.r}
+library(httr)
+library(rvest)
+library(stringr)
+url <- "https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status"
+title <- read_html(url)
+text <- html_nodes(title, "td")
+text <- html_text(text)
+text <- matrix(text , nrow = length(text) / 3 , ncol = 3 , byrow = T)
+content <- data.frame(text)
+
+name <- html_nodes(title,"th")
+name <- html_text(name)
+name <- str_replace_all(name,"[^a-zA-Z 0-9]","")
+
+names(content) <- name
+
+```
+
+## Plot
+
+```{r kable}
+library(knitr)
+kable(content,row.names = T)
+```

@@ -13,6 +13,17 @@
 	課堂上：
 		1. README.md refined
 		2. Sample code pulled from github
+		3. finished E.A_crawler.r witch collects the list of "Endagered Animals"
+		4. discussion and question sovled (with workmate)
+
+	個人進度：
+		1. refined E.A_craler.r (3/15)
+
+[E.A_crawler.html]()
+
+resources:
+http://blog.fens.me/r-stringr/
+https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r
 
 =====================================================================================
 
