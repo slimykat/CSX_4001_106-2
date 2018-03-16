@@ -17,13 +17,21 @@
 		4. discussion and question sovled (with workmate)
 
 	個人進度：
-		1. refined E.A_craler.r (3/15)
+		1. refined E.A_crawler.r (3/15)
+		2. re-refined E.A_crawler.r (3/16)
+			- add more data
+			- reorder the frame
+		3. add a graph by ggplot2 to E.A_crawler.rmd and such(3/16)
+			- played with some settings of the x_axis 
+			- did some research on color settings
 
 [E.A_crawler.html](https://slimykat.github.io/CSX_4001_106-2/week_3/task/E.A_crawler.html )
 
 resources:
 1.	[粉絲日誌](http://blog.fens.me/r-stringr/)
-2.	[stackoverflow](https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r)
+2.	[stackoverflow_1](https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r)
+3.	[stackoverflow_2](https://stackoverflow.com/questions/8713462/ggplot2-change-order-of-display-of-a-factor-variable-on-an-axis
+4.	[ggplot2](http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually)
 
 =====================================================================================
 
