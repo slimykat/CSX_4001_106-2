@@ -1,0 +1,74 @@
+---
+title: "zec_crawler.rmd"
+output: html_document
+author: "Slimykat"
+date: "2018年 4月 4日"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#####1. 建立一個目標：從嘖嘖粉絲專頁上獲得最近幾筆募資計畫，並分析最近受關注的計畫有哪些？
+```{r}
+url = "https://www.facebook.com/zeczec.com"       #//目標網站
+```
+#####2. 首先先把資料從網站上爬下來
+```{r zec_crawler.r}
+library(httr)
+library(rjson)
+library(httpuv)
+library(Rfacebook)                                #//載入函式庫
+
+#出現函式庫中的函式定義衝突，不過getGroup()是不會被用到的，所以可以暫時無視
+my_token = "EAACEdEose0cBAC3Y8Qnj3Fbt69UcZAL9dds7osGdftjCj8PWbtMzmYZBZB3kv3ZAzc21UwOhnKUZBZAQoVPxZBC86EAHzf87FZArB7TPnvf4dRHJzIeTI1xekzxUxEl2pyMSoBDDRZCdZBVdh11l99ci7xvWyy426K9C827neHfVFGDZCZCoZCTpCO5HKnfyx1IsPXCe1ZA3lZAOFNbjAZDZD"
+me = getUsers("me", my_token, private_info = T)   #//取得帳號權限
+
+page_name = "嘖嘖 zeczec"
+page_id = 197008103698657                         #//粉絲專頁資訊
+
+target = getPage(page_id, my_token, n = 75)       #//getPage函式，取最新75筆貼文
+```
+#####3. 資料全部儲存在target裡面了，觀察貼文內容找出可供分析的“目標”以及“指標”
+```{r}
+summary(target)
+target$message[16]
+```
+#####4. message中的名稱、likes_count、shares_count是我的目標；名稱前的"project/"、名稱後的換行符號是可以用的指標
+```{r}
+library(stringr)                                  #//載入data washing用的stringr函式庫
+
+flag = grepl("projects/",target$message)          #//從貼文中找出有正確指標的貼文，以排除潛在的例外貼文
+
+num = regexec("projects/",target$message[flag])
+len = nchar(target$message[flag])
+project_name = substr(target$message[flag],as.numeric(num) + nchar("projects/"),len)
+                                                  #//截出從"project/"的下一個字元到貼文尾端的所有文字
+
+count = target$likes_count[flag] + 1.5*target$shares_count[flag]
+                                                  #//以讚數以及分享數作為受關注程度的判斷依據
+                                                  #//由於分享能夠觸及到更多用戶，給予分享數1.5倍的權重
+
+flag = grepl("\n",project_name)                   #//沒有後面內容的貼文自然不需要砍
+num = regexec("\n",project_name[flag])
+project_name[flag] = substr(project_name[flag],1,as.numeric(num)-1)
+                                                  #//將計畫名稱後面的內容砍掉
+
+project = data.frame(project_name,count)
+add_up = data.frame(unique(project$project_name),0)
+names(add_up) <- c("project_name" ,"count")       #//將擷取出來的資料frame起來，並宣告一個unique的frame
+
+for(i in c(1:75)){
+  flag = add_up$project_name == project[i,1]
+  add_up[flag,2] = add_up[flag, 2] + project[i,2]
+}                                                 #//將同樣的計劃在不同貼文中的讚/分享數加總起來
+```
+#####5. 需要的資料已經準備好了，進行文字雲的plotting
+```{r worldcloud ploting}
+library(RColorBrewer)
+library(wordcloud)
+pal = brewer.pal(9,"Blues")                       #//載入文字雲需要的函數庫，並選用藍色系的顏色封包
+
+wordcloud(add_up$project_name, add_up$count/10, scale = c(4,.1), min.freq = 1,
+          random.order = F, random.color = F, rot.per = 0, fixed.asp = T,
+          colors = pal)
+```

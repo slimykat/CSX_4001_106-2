@@ -8,6 +8,29 @@
 
 =====================================================================================
 
+## Week_6
+
+清明節連假
+
+	個人進度：
+		1. Finished zec_crawler.rmd (AKA task4 finished)
+
+
+=====================================================================================
+
+## Week_5
+
+	課堂上：
+		1. Solved problem#1: data washing complete
+		2. Haven't get started on EDA yet
+		3. Did some research on wordcloud, not much though
+	個人進度：
+		1. Finished zec_crawler.r
+		2. Played with some wordcloud settings
+		3. Constructing zec_crawler.rmd
+
+=====================================================================================
+
 ## Week_4
 
 過敏不是很舒服，每週的practice根本沒去動。
@@ -17,6 +40,10 @@
 		1. Sample code pulled from github
 		2. Research on Rfacebook
 
+	個人進度：
+		1. Build up the strategy for zec_crawler
+		2. Successfully extract the project_name from facebook page
+		3. Encounter problem#1: overlayed post on same project, researching/looking for solution to sum up the like counts 
 
 =====================================================================================
 
@@ -42,7 +69,7 @@
 resources:
 1.	[粉絲日誌](http://blog.fens.me/r-stringr/)
 2.	[stackoverflow_1](https://stackoverflow.com/questions/14614946/how-to-turn-a-vector-into-a-matrix-in-r)
-3.	[stackoverflow_2](https://stackoverflow.com/questions/8713462/ggplot2-change-order-of-display-of-a-factor-variable-on-an-axis
+3.	[stackoverflow_2](https://stackoverflow.com/questions/8713462/ggplot2-change-order-of-display-of-a-factor-variable-on-an-axis)
 4.	[ggplot2](http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually)
 
 =====================================================================================
