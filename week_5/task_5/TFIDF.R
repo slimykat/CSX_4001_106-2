@@ -22,7 +22,7 @@ docs <- tm_map(docs, stripWhitespace)
 docs <- tm_map(docs, toSpace, "[a-zA-Z]")
 
 # words cut
-keywords = read.csv("keywords.csv")
+keywords = read.csv("keywords.csv",fileEncoding = 'big5')
 mixseg = worker()
 keys = as.matrix(keywords)
 new_user_word(mixseg, keys)
