@@ -129,7 +129,7 @@ kable(tail(TopWords))
 ```
 #### 5. 貼文內容關鍵字詞以及其變化
 ```{r}
-TopNo = 8                          #擷取前10筆資料
+TopNo = 6                          #擷取前6筆資料
 TDM$d = as.character(TDM$d)
 AllTop = as.data.frame( table(as.matrix(TopWords)) )
 AllTop = AllTop[order(AllTop$Freq, decreasing = TRUE),]
