@@ -8,13 +8,31 @@
 
 =====================================================================================
 
+## Week_7
+
+	課堂進度：
+		1. Refined project_1
+		2. Read.md updated, adding my tasks into Read.md
+
+	個人進度：
+		1. Finished project_1 tf-idf_visualized.rmd(some how)
+
+[TF-IDF_practice.html](https://slimykat.github.com/slimykat/CSX_4001_106-2/week_5/task_5/weekly_task/TF-IDF_practice.html)
+[tf-idf_visualized.html](https://slimykat.github.com/slimykat/CSX_4001_106-2/project1/tf-idf_visualized.html)
+
+=====================================================================================
+
 ## Week_6
 
 清明節連假
 
 	個人進度：
 		1. Finished zec_crawler.rmd (AKA task4 finished)
+		2. Week_5 task and project_1 building
+		3. Problem#1 of project_1 : grabbing the texts from ptt
+		4. Problem#2 of project_1 : tf-idf has unfinite result
 
+[zec_crawler.html](https://slimykat.github.com/slimykat/CSX_4001_106-2/week_4/task_4/zec_crawler.html)
 
 =====================================================================================
 
