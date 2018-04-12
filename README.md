@@ -17,8 +17,8 @@
 	個人進度：
 		1. Finished project_1 tf-idf_visualized.rmd(some how)
 
-[TF-IDF_practice.html](https://slimykat.github.com/CSX_4001_106-2/week_5/task_5/weekly_task/TF-IDF_practice.html)
-[tf-idf_visualized.html](https://slimykat.github.com/CSX_4001_106-2/project1/tf-idf_visualized.html)
+[TF-IDF_practice.html](https://slimykat.github.io/CSX_4001_106-2/week_5/task_5/weekly_task/TF-IDF_practice.html)
+[tf-idf_visualized.html](https://slimykat.github.io/CSX_4001_106-2/project1/tf-idf_visualized.html)
 
 =====================================================================================
 
@@ -32,7 +32,7 @@
 		3. Problem#1 of project_1 : grabbing the texts from ptt
 		4. Problem#2 of project_1 : tf-idf has unfinite result
 
-[zec_crawler.html](https://slimykat.github.com/CSX_4001_106-2/week_4/task_4/zec_crawler.html)
+[zec_crawler.html](https://slimykat.github.io/CSX_4001_106-2/week_4/task_4/zec_crawler.html)
 
 =====================================================================================
 
