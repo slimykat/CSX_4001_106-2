@@ -1,0 +1,2 @@
+distance                Calculate the distance of the word.
+word2vec                Train a model by word2vec.
