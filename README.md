@@ -7,9 +7,9 @@
 想學好Ｒ語言跟累積project的經驗
 
 =====================================================================================
-## Project_2 Titanic Prediction
+## Project_3 Titanic Prediction (AKA Week_8)
 
-week_8/task_8/titanicPrediction.csv
+[Titanic.html](https://slimykat.github.io/CSX_4001_106-2/project3/TitanicAnalysis.html)
 
 
 =====================================================================================
