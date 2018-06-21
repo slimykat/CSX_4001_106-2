@@ -1,0 +1,1146 @@
+ASIA (EX. NEAR EAST),Production,Wood fuel
+ASIA (EX. NEAR EAST),Production,Wood fuel
+ASIA (EX. NEAR EAST),Production,Wood fuel
+ASIA (EX. NEAR EAST),Production,Wood fuel
+ASIA (EX. NEAR EAST),Production,Sawlogs and veneer logs
+ASIA (EX. NEAR EAST),Production,Sawlogs and veneer logs
+ASIA (EX. NEAR EAST),Production,Sawlogs and veneer logs
+ASIA (EX. NEAR EAST),Production,Sawlogs and veneer logs
+ASIA (EX. NEAR EAST),Production,Roundwood
+ASIA (EX. NEAR EAST),Production,Roundwood
+ASIA (EX. NEAR EAST),Production,Roundwood
+ASIA (EX. NEAR EAST),Production,Sawnwood
+ASIA (EX. NEAR EAST),Production,Sawnwood
+ASIA (EX. NEAR EAST),Production,Sawnwood
+ASIA (EX. NEAR EAST),Production,Sawnwood
+ASIA (EX. NEAR EAST),Production,Particle board
+ASIA (EX. NEAR EAST),Production,Pulpwood
+ASIA (EX. NEAR EAST),Production,Pulpwood
+ASIA (EX. NEAR EAST),Production,Veneer sheets
+ASIA (EX. NEAR EAST),Production,Veneer sheets
+ASIA (EX. NEAR EAST),Production,Plywood
+ASIA (EX. NEAR EAST),Production,Plywood
+ASIA (EX. NEAR EAST),Production,Hardboard
+ASIA (EX. NEAR EAST),Production,Hardboard
+ASIA (EX. NEAR EAST),Production,Wood pulp
+ASIA (EX. NEAR EAST),Production,Wood pulp
+ASIA (EX. NEAR EAST),Production,Wood pulp
+ASIA (EX. NEAR EAST),Production,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Production,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Production,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Production,Newsprint
+ASIA (EX. NEAR EAST),Production,Newsprint
+ASIA (EX. NEAR EAST),Production,Newsprint
+ASIA (EX. NEAR EAST),Production,Paper
+ASIA (EX. NEAR EAST),Production,Paper
+ASIA (EX. NEAR EAST),Production,Paper
+ASIA (EX. NEAR EAST),Production,Wood chips and particles
+ASIA (EX. NEAR EAST),Production,Wood chips and particles
+ASIA (EX. NEAR EAST),Production,Wood residues
+ASIA (EX. NEAR EAST),Production,Wood residues
+ASIA (EX. NEAR EAST),Production,Case materials
+ASIA (EX. NEAR EAST),Production,Case materials
+ASIA (EX. NEAR EAST),Production,Case materials
+ASIA (EX. NEAR EAST),Production,MDF/HDF
+ASIA (EX. NEAR EAST),Production,MDF/HDF
+ASIA (EX. NEAR EAST),Production,MDF/HDF
+ASIA (EX. NEAR EAST),Production,Other fibreboard
+ASIA (EX. NEAR EAST),Production,Other fibreboard
+ASIA (EX. NEAR EAST),Production,Cartonboard
+ASIA (EX. NEAR EAST),Production,Cartonboard
+ASIA (EX. NEAR EAST),Production,Cartonboard
+ASIA (EX. NEAR EAST),Production,Cartonboard
+ASIA (EX. NEAR EAST),Production,Other agglomerates
+ASIA (EX. NEAR EAST),Production,Other agglomerates
+ASIA (EX. NEAR EAST),Production,Other agglomerates
+ASIA (EX. NEAR EAST),Import Quantity,Wood fuel
+ASIA (EX. NEAR EAST),Import Quantity,Wood fuel
+ASIA (EX. NEAR EAST),Import Quantity,Roundwood
+ASIA (EX. NEAR EAST),Import Quantity,Roundwood
+ASIA (EX. NEAR EAST),Import Quantity,Wood chips and particles
+ASIA (EX. NEAR EAST),Import Quantity,Wood chips and particles
+ASIA (EX. NEAR EAST),Import Quantity,Wood residues
+ASIA (EX. NEAR EAST),Import Quantity,Wood residues
+ASIA (EX. NEAR EAST),Import Quantity,Sawnwood
+ASIA (EX. NEAR EAST),Import Quantity,Sawnwood
+ASIA (EX. NEAR EAST),Import Quantity,Sawnwood
+ASIA (EX. NEAR EAST),Import Quantity,Veneer sheets
+ASIA (EX. NEAR EAST),Import Quantity,Plywood
+ASIA (EX. NEAR EAST),Import Quantity,Plywood
+ASIA (EX. NEAR EAST),Import Quantity,Particle board
+ASIA (EX. NEAR EAST),Import Quantity,Particle board
+ASIA (EX. NEAR EAST),Import Quantity,OSB
+ASIA (EX. NEAR EAST),Import Quantity,Hardboard
+ASIA (EX. NEAR EAST),Import Quantity,Hardboard
+ASIA (EX. NEAR EAST),Import Quantity,MDF/HDF
+ASIA (EX. NEAR EAST),Import Quantity,MDF/HDF
+ASIA (EX. NEAR EAST),Import Quantity,Other fibreboard
+ASIA (EX. NEAR EAST),Import Quantity,Other fibreboard
+ASIA (EX. NEAR EAST),Import Quantity,Other fibreboard
+ASIA (EX. NEAR EAST),Import Quantity,Wood pulp
+ASIA (EX. NEAR EAST),Import Quantity,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Import Quantity,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Import Quantity,Paper
+ASIA (EX. NEAR EAST),Import Quantity,Paper
+ASIA (EX. NEAR EAST),Import Quantity,Newsprint
+ASIA (EX. NEAR EAST),Import Quantity,Case materials
+ASIA (EX. NEAR EAST),Import Quantity,Case materials
+ASIA (EX. NEAR EAST),Import Quantity,Cartonboard
+ASIA (EX. NEAR EAST),Import Quantity,Cartonboard
+ASIA (EX. NEAR EAST),Import Quantity,Other agglomerates
+ASIA (EX. NEAR EAST),Import Quantity,Other agglomerates
+ASIA (EX. NEAR EAST),Export Quantity,Wood fuel
+ASIA (EX. NEAR EAST),Export Quantity,Roundwood
+ASIA (EX. NEAR EAST),Export Quantity,Roundwood
+ASIA (EX. NEAR EAST),Export Quantity,Wood chips and particles
+ASIA (EX. NEAR EAST),Export Quantity,Wood residues
+ASIA (EX. NEAR EAST),Export Quantity,Sawnwood
+ASIA (EX. NEAR EAST),Export Quantity,Veneer sheets
+ASIA (EX. NEAR EAST),Export Quantity,Plywood
+ASIA (EX. NEAR EAST),Export Quantity,Particle board
+ASIA (EX. NEAR EAST),Export Quantity,Hardboard
+ASIA (EX. NEAR EAST),Export Quantity,MDF/HDF
+ASIA (EX. NEAR EAST),Export Quantity,Other fibreboard
+ASIA (EX. NEAR EAST),Export Quantity,Wood pulp
+ASIA (EX. NEAR EAST),Export Quantity,Paper
+ASIA (EX. NEAR EAST),Export Quantity,Paper
+ASIA (EX. NEAR EAST),Export Quantity,Newsprint
+ASIA (EX. NEAR EAST),Export Quantity,Newsprint
+ASIA (EX. NEAR EAST),Export Quantity,Case materials
+ASIA (EX. NEAR EAST),Export Quantity,Cartonboard
+ASIA (EX. NEAR EAST),Export Quantity,Cartonboard
+ASIA (EX. NEAR EAST),Export Quantity,Pulp from fibres other than wood
+ASIA (EX. NEAR EAST),Export Quantity,OSB
+OCEAN,Production,Wood fuel
+OCEAN,Production,Sawlogs and veneer logs
+OCEAN,Production,Sawlogs and veneer logs
+OCEAN,Production,Pulpwood
+OCEAN,Production,Pulpwood
+OCEAN,Production,Pulpwood
+OCEAN,Production,Pulpwood
+OCEAN,Production,Roundwood
+OCEAN,Production,Roundwood
+OCEAN,Production,Wood chips and particles
+OCEAN,Production,Wood chips and particles
+OCEAN,Production,Wood chips and particles
+OCEAN,Production,Sawnwood
+OCEAN,Production,Sawnwood
+OCEAN,Production,Sawnwood
+OCEAN,Production,Veneer sheets
+OCEAN,Production,Veneer sheets
+OCEAN,Production,Plywood
+OCEAN,Production,Plywood
+OCEAN,Production,Plywood
+OCEAN,Production,Paper
+OCEAN,Production,Paper
+OCEAN,Import Quantity,Roundwood
+OCEAN,Import Quantity,Sawnwood
+OCEAN,Import Quantity,Sawnwood
+OCEAN,Import Quantity,Veneer sheets
+OCEAN,Import Quantity,Plywood
+OCEAN,Import Quantity,Particle board
+OCEAN,Import Quantity,Other fibreboard
+OCEAN,Import Quantity,Newsprint
+OCEAN,Import Quantity,Newsprint
+OCEAN,Import Quantity,Paper
+OCEAN,Import Quantity,Wood fuel
+OCEAN,Import Quantity,Wood chips and particles
+OCEAN,Import Quantity,Wood residues
+OCEAN,Import Quantity,Wood residues
+OCEAN,Import Quantity,OSB
+OCEAN,Import Quantity,OSB
+OCEAN,Import Quantity,Hardboard
+OCEAN,Import Quantity,Hardboard
+OCEAN,Import Quantity,MDF/HDF
+OCEAN,Import Quantity,MDF/HDF
+OCEAN,Import Quantity,Wood pulp
+OCEAN,Import Quantity,Case materials
+OCEAN,Import Quantity,Cartonboard
+OCEAN,Import Quantity,Pulp from fibres other than wood
+OCEAN,Export Quantity,Paper
+OCEAN,Export Quantity,Roundwood
+OCEAN,Export Quantity,Sawnwood
+OCEAN,Export Quantity,Veneer sheets
+OCEAN,Export Quantity,Veneer sheets
+OCEAN,Export Quantity,Plywood
+OCEAN,Export Quantity,Particle board
+OCEAN,Export Quantity,MDF/HDF
+OCEAN,Export Quantity,MDF/HDF
+OCEAN,Export Quantity,Case materials
+OCEAN,Export Quantity,Wood pulp
+OCEAN,Export Quantity,Wood fuel
+OCEAN,Export Quantity,Wood chips and particles
+OCEAN,Export Quantity,Wood chips and particles
+OCEAN,Export Quantity,Wood chips and particles
+OCEAN,Export Quantity,Wood residues
+OCEAN,Export Quantity,Hardboard
+OCEAN,Export Quantity,Other fibreboard
+OCEAN,Export Quantity,Pulp from fibres other than wood
+OCEAN,Export Quantity,Newsprint
+OCEAN,Export Quantity,Cartonboard
+OCEAN,Export Quantity,OSB
+SUB-SAHARAN AFRICA,Production,Wood fuel
+SUB-SAHARAN AFRICA,Production,Sawlogs and veneer logs
+SUB-SAHARAN AFRICA,Production,Sawlogs and veneer logs
+SUB-SAHARAN AFRICA,Production,Sawlogs and veneer logs
+SUB-SAHARAN AFRICA,Production,Pulpwood
+SUB-SAHARAN AFRICA,Production,Roundwood
+SUB-SAHARAN AFRICA,Production,Roundwood
+SUB-SAHARAN AFRICA,Production,Roundwood
+SUB-SAHARAN AFRICA,Production,Roundwood
+SUB-SAHARAN AFRICA,Production,Sawnwood
+SUB-SAHARAN AFRICA,Production,Sawnwood
+SUB-SAHARAN AFRICA,Production,Sawnwood
+SUB-SAHARAN AFRICA,Production,Veneer sheets
+SUB-SAHARAN AFRICA,Production,Veneer sheets
+SUB-SAHARAN AFRICA,Production,Plywood
+SUB-SAHARAN AFRICA,Production,Plywood
+SUB-SAHARAN AFRICA,Production,Plywood
+SUB-SAHARAN AFRICA,Production,Wood pulp
+SUB-SAHARAN AFRICA,Production,Pulp from fibres other than wood
+SUB-SAHARAN AFRICA,Production,Paper
+SUB-SAHARAN AFRICA,Production,Wood residues
+SUB-SAHARAN AFRICA,Production,Wood residues
+SUB-SAHARAN AFRICA,Production,Wood residues
+SUB-SAHARAN AFRICA,Production,Wood chips and particles
+SUB-SAHARAN AFRICA,Production,Wood chips and particles
+SUB-SAHARAN AFRICA,Production,Wood chips and particles
+SUB-SAHARAN AFRICA,Production,Particle board
+SUB-SAHARAN AFRICA,Production,Particle board
+SUB-SAHARAN AFRICA,Production,Particle board
+SUB-SAHARAN AFRICA,Production,Hardboard
+SUB-SAHARAN AFRICA,Production,Hardboard
+SUB-SAHARAN AFRICA,Production,Other fibreboard
+SUB-SAHARAN AFRICA,Production,Newsprint
+SUB-SAHARAN AFRICA,Production,Newsprint
+SUB-SAHARAN AFRICA,Production,Newsprint
+SUB-SAHARAN AFRICA,Production,Case materials
+SUB-SAHARAN AFRICA,Production,Case materials
+SUB-SAHARAN AFRICA,Production,Cartonboard
+SUB-SAHARAN AFRICA,Production,Cartonboard
+SUB-SAHARAN AFRICA,Production,MDF/HDF
+SUB-SAHARAN AFRICA,Production,Other agglomerates
+SUB-SAHARAN AFRICA,Production,OSB
+SUB-SAHARAN AFRICA,Import Quantity,Wood fuel
+SUB-SAHARAN AFRICA,Import Quantity,Roundwood
+SUB-SAHARAN AFRICA,Import Quantity,Roundwood
+SUB-SAHARAN AFRICA,Import Quantity,Wood chips and particles
+SUB-SAHARAN AFRICA,Import Quantity,Wood residues
+SUB-SAHARAN AFRICA,Import Quantity,Sawnwood
+SUB-SAHARAN AFRICA,Import Quantity,Sawnwood
+SUB-SAHARAN AFRICA,Import Quantity,Veneer sheets
+SUB-SAHARAN AFRICA,Import Quantity,Veneer sheets
+SUB-SAHARAN AFRICA,Import Quantity,Plywood
+SUB-SAHARAN AFRICA,Import Quantity,Plywood
+SUB-SAHARAN AFRICA,Import Quantity,Plywood
+SUB-SAHARAN AFRICA,Import Quantity,Particle board
+SUB-SAHARAN AFRICA,Import Quantity,Particle board
+SUB-SAHARAN AFRICA,Import Quantity,OSB
+SUB-SAHARAN AFRICA,Import Quantity,OSB
+SUB-SAHARAN AFRICA,Import Quantity,Hardboard
+SUB-SAHARAN AFRICA,Import Quantity,Hardboard
+SUB-SAHARAN AFRICA,Import Quantity,MDF/HDF
+SUB-SAHARAN AFRICA,Import Quantity,MDF/HDF
+SUB-SAHARAN AFRICA,Import Quantity,Other fibreboard
+SUB-SAHARAN AFRICA,Import Quantity,Other fibreboard
+SUB-SAHARAN AFRICA,Import Quantity,Wood pulp
+SUB-SAHARAN AFRICA,Import Quantity,Pulp from fibres other than wood
+SUB-SAHARAN AFRICA,Import Quantity,Paper
+SUB-SAHARAN AFRICA,Import Quantity,Newsprint
+SUB-SAHARAN AFRICA,Import Quantity,Newsprint
+SUB-SAHARAN AFRICA,Import Quantity,Case materials
+SUB-SAHARAN AFRICA,Import Quantity,Case materials
+SUB-SAHARAN AFRICA,Import Quantity,Cartonboard
+SUB-SAHARAN AFRICA,Import Quantity,Cartonboard
+SUB-SAHARAN AFRICA,Import Quantity,Other agglomerates
+SUB-SAHARAN AFRICA,Export Quantity,Wood fuel
+SUB-SAHARAN AFRICA,Export Quantity,Wood fuel
+SUB-SAHARAN AFRICA,Export Quantity,Roundwood
+SUB-SAHARAN AFRICA,Export Quantity,Sawnwood
+SUB-SAHARAN AFRICA,Export Quantity,Sawnwood
+SUB-SAHARAN AFRICA,Export Quantity,Veneer sheets
+SUB-SAHARAN AFRICA,Export Quantity,Veneer sheets
+SUB-SAHARAN AFRICA,Export Quantity,Plywood
+SUB-SAHARAN AFRICA,Export Quantity,Particle board
+SUB-SAHARAN AFRICA,Export Quantity,Hardboard
+SUB-SAHARAN AFRICA,Export Quantity,MDF/HDF
+SUB-SAHARAN AFRICA,Export Quantity,Other fibreboard
+SUB-SAHARAN AFRICA,Export Quantity,Wood pulp
+SUB-SAHARAN AFRICA,Export Quantity,Wood pulp
+SUB-SAHARAN AFRICA,Export Quantity,Paper
+SUB-SAHARAN AFRICA,Export Quantity,Paper
+SUB-SAHARAN AFRICA,Export Quantity,Newsprint
+SUB-SAHARAN AFRICA,Export Quantity,Case materials
+SUB-SAHARAN AFRICA,Export Quantity,Case materials
+SUB-SAHARAN AFRICA,Export Quantity,Cartonboard
+SUB-SAHARAN AFRICA,Export Quantity,Cartonboard
+SUB-SAHARAN AFRICA,Export Quantity,Wood chips and particles
+SUB-SAHARAN AFRICA,Export Quantity,Wood residues
+SUB-SAHARAN AFRICA,Export Quantity,Wood residues
+SUB-SAHARAN AFRICA,Export Quantity,Pulp from fibres other than wood
+SUB-SAHARAN AFRICA,Export Quantity,OSB
+LATIN AMER. & CARIB,Production,Wood fuel
+LATIN AMER. & CARIB,Production,Sawlogs and veneer logs
+LATIN AMER. & CARIB,Production,Sawlogs and veneer logs
+LATIN AMER. & CARIB,Production,Sawlogs and veneer logs
+LATIN AMER. & CARIB,Production,Sawnwood
+LATIN AMER. & CARIB,Production,Sawnwood
+LATIN AMER. & CARIB,Production,Roundwood
+LATIN AMER. & CARIB,Production,Roundwood
+LATIN AMER. & CARIB,Production,Paper
+LATIN AMER. & CARIB,Production,Paper
+LATIN AMER. & CARIB,Production,Pulpwood
+LATIN AMER. & CARIB,Production,Wood residues
+LATIN AMER. & CARIB,Production,Wood residues
+LATIN AMER. & CARIB,Production,Wood residues
+LATIN AMER. & CARIB,Production,Wood residues
+LATIN AMER. & CARIB,Production,Veneer sheets
+LATIN AMER. & CARIB,Production,Veneer sheets
+LATIN AMER. & CARIB,Production,Plywood
+LATIN AMER. & CARIB,Production,Plywood
+LATIN AMER. & CARIB,Production,Plywood
+LATIN AMER. & CARIB,Production,Hardboard
+LATIN AMER. & CARIB,Production,Hardboard
+LATIN AMER. & CARIB,Production,Other fibreboard
+LATIN AMER. & CARIB,Production,Other fibreboard
+LATIN AMER. & CARIB,Production,Other fibreboard
+LATIN AMER. & CARIB,Production,Pulp from fibres other than wood
+LATIN AMER. & CARIB,Production,Wood chips and particles
+LATIN AMER. & CARIB,Production,Wood chips and particles
+LATIN AMER. & CARIB,Production,Particle board
+LATIN AMER. & CARIB,Production,Particle board
+LATIN AMER. & CARIB,Production,Particle board
+LATIN AMER. & CARIB,Production,Newsprint
+LATIN AMER. & CARIB,Production,Case materials
+LATIN AMER. & CARIB,Production,Case materials
+LATIN AMER. & CARIB,Production,Case materials
+LATIN AMER. & CARIB,Production,Cartonboard
+LATIN AMER. & CARIB,Production,Other agglomerates
+LATIN AMER. & CARIB,Production,Other agglomerates
+LATIN AMER. & CARIB,Production,Wood pulp
+LATIN AMER. & CARIB,Import Quantity,Roundwood
+LATIN AMER. & CARIB,Import Quantity,Wood fuel
+LATIN AMER. & CARIB,Import Quantity,Wood chips and particles
+LATIN AMER. & CARIB,Import Quantity,Wood residues
+LATIN AMER. & CARIB,Import Quantity,Sawnwood
+LATIN AMER. & CARIB,Import Quantity,Sawnwood
+LATIN AMER. & CARIB,Import Quantity,Veneer sheets
+LATIN AMER. & CARIB,Import Quantity,Plywood
+LATIN AMER. & CARIB,Import Quantity,Plywood
+LATIN AMER. & CARIB,Import Quantity,Particle board
+LATIN AMER. & CARIB,Import Quantity,OSB
+LATIN AMER. & CARIB,Import Quantity,MDF/HDF
+LATIN AMER. & CARIB,Import Quantity,Other fibreboard
+LATIN AMER. & CARIB,Import Quantity,Newsprint
+LATIN AMER. & CARIB,Import Quantity,Paper
+LATIN AMER. & CARIB,Import Quantity,Case materials
+LATIN AMER. & CARIB,Import Quantity,Cartonboard
+LATIN AMER. & CARIB,Import Quantity,Hardboard
+LATIN AMER. & CARIB,Import Quantity,Wood pulp
+LATIN AMER. & CARIB,Import Quantity,Pulp from fibres other than wood
+LATIN AMER. & CARIB,Import Quantity,Other agglomerates
+LATIN AMER. & CARIB,Import Quantity,Other agglomerates
+LATIN AMER. & CARIB,Export Quantity,Sawnwood
+LATIN AMER. & CARIB,Export Quantity,Veneer sheets
+LATIN AMER. & CARIB,Export Quantity,Plywood
+LATIN AMER. & CARIB,Export Quantity,Plywood
+LATIN AMER. & CARIB,Export Quantity,Paper
+LATIN AMER. & CARIB,Export Quantity,Paper
+LATIN AMER. & CARIB,Export Quantity,Newsprint
+LATIN AMER. & CARIB,Export Quantity,Roundwood
+LATIN AMER. & CARIB,Export Quantity,Wood fuel
+LATIN AMER. & CARIB,Export Quantity,Particle board
+LATIN AMER. & CARIB,Export Quantity,Hardboard
+LATIN AMER. & CARIB,Export Quantity,MDF/HDF
+LATIN AMER. & CARIB,Export Quantity,Other fibreboard
+LATIN AMER. & CARIB,Export Quantity,Wood pulp
+LATIN AMER. & CARIB,Export Quantity,Wood pulp
+LATIN AMER. & CARIB,Export Quantity,Case materials
+LATIN AMER. & CARIB,Export Quantity,Cartonboard
+LATIN AMER. & CARIB,Export Quantity,Wood residues
+LATIN AMER. & CARIB,Export Quantity,Pulp from fibres other than wood
+LATIN AMER. & CARIB,Export Quantity,Wood chips and particles
+LATIN AMER. & CARIB,Export Quantity,OSB
+LATIN AMER. & CARIB,Export Quantity,OSB
+C.W. OF IND. STATES,Production,Wood fuel
+C.W. OF IND. STATES,Production,Sawlogs and veneer logs
+C.W. OF IND. STATES,Production,Pulpwood
+C.W. OF IND. STATES,Production,Roundwood
+C.W. OF IND. STATES,Production,Wood chips and particles
+C.W. OF IND. STATES,Production,Wood residues
+C.W. OF IND. STATES,Production,Other agglomerates
+C.W. OF IND. STATES,Production,Sawnwood
+C.W. OF IND. STATES,Production,Veneer sheets
+C.W. OF IND. STATES,Production,Plywood
+C.W. OF IND. STATES,Production,Particle board
+C.W. OF IND. STATES,Production,OSB
+C.W. OF IND. STATES,Production,Hardboard
+C.W. OF IND. STATES,Production,MDF/HDF
+C.W. OF IND. STATES,Production,Other fibreboard
+C.W. OF IND. STATES,Production,Wood pulp
+C.W. OF IND. STATES,Production,Pulp from fibres other than wood
+C.W. OF IND. STATES,Production,Paper
+C.W. OF IND. STATES,Production,Newsprint
+C.W. OF IND. STATES,Production,Case materials
+C.W. OF IND. STATES,Production,Cartonboard
+C.W. OF IND. STATES,Production,Cartonboard
+C.W. OF IND. STATES,Import Quantity,Wood fuel
+C.W. OF IND. STATES,Import Quantity,Roundwood
+C.W. OF IND. STATES,Import Quantity,Roundwood
+C.W. OF IND. STATES,Import Quantity,Wood chips and particles
+C.W. OF IND. STATES,Import Quantity,Wood chips and particles
+C.W. OF IND. STATES,Import Quantity,Wood residues
+C.W. OF IND. STATES,Import Quantity,Other agglomerates
+C.W. OF IND. STATES,Import Quantity,Sawnwood
+C.W. OF IND. STATES,Import Quantity,Sawnwood
+C.W. OF IND. STATES,Import Quantity,Sawnwood
+C.W. OF IND. STATES,Import Quantity,Veneer sheets
+C.W. OF IND. STATES,Import Quantity,Plywood
+C.W. OF IND. STATES,Import Quantity,Plywood
+C.W. OF IND. STATES,Import Quantity,Particle board
+C.W. OF IND. STATES,Import Quantity,Particle board
+C.W. OF IND. STATES,Import Quantity,Particle board
+C.W. OF IND. STATES,Import Quantity,OSB
+C.W. OF IND. STATES,Import Quantity,OSB
+C.W. OF IND. STATES,Import Quantity,Hardboard
+C.W. OF IND. STATES,Import Quantity,Hardboard
+C.W. OF IND. STATES,Import Quantity,MDF/HDF
+C.W. OF IND. STATES,Import Quantity,MDF/HDF
+C.W. OF IND. STATES,Import Quantity,MDF/HDF
+C.W. OF IND. STATES,Import Quantity,Other fibreboard
+C.W. OF IND. STATES,Import Quantity,Other fibreboard
+C.W. OF IND. STATES,Import Quantity,Wood pulp
+C.W. OF IND. STATES,Import Quantity,Pulp from fibres other than wood
+C.W. OF IND. STATES,Import Quantity,Paper
+C.W. OF IND. STATES,Import Quantity,Newsprint
+C.W. OF IND. STATES,Import Quantity,Newsprint
+C.W. OF IND. STATES,Import Quantity,Case materials
+C.W. OF IND. STATES,Import Quantity,Case materials
+C.W. OF IND. STATES,Import Quantity,Cartonboard
+C.W. OF IND. STATES,Import Quantity,Cartonboard
+C.W. OF IND. STATES,Import Quantity,Cartonboard
+C.W. OF IND. STATES,Export Quantity,Wood fuel
+C.W. OF IND. STATES,Export Quantity,Roundwood
+C.W. OF IND. STATES,Export Quantity,Wood chips and particles
+C.W. OF IND. STATES,Export Quantity,Wood residues
+C.W. OF IND. STATES,Export Quantity,Other agglomerates
+C.W. OF IND. STATES,Export Quantity,Sawnwood
+C.W. OF IND. STATES,Export Quantity,Veneer sheets
+C.W. OF IND. STATES,Export Quantity,Plywood
+C.W. OF IND. STATES,Export Quantity,Particle board
+C.W. OF IND. STATES,Export Quantity,OSB
+C.W. OF IND. STATES,Export Quantity,Hardboard
+C.W. OF IND. STATES,Export Quantity,MDF/HDF
+C.W. OF IND. STATES,Export Quantity,MDF/HDF
+C.W. OF IND. STATES,Export Quantity,Other fibreboard
+C.W. OF IND. STATES,Export Quantity,Wood pulp
+C.W. OF IND. STATES,Export Quantity,Pulp from fibres other than wood
+C.W. OF IND. STATES,Export Quantity,Paper
+C.W. OF IND. STATES,Export Quantity,Newsprint
+C.W. OF IND. STATES,Export Quantity,Case materials
+C.W. OF IND. STATES,Export Quantity,Cartonboard
+WESTERN EUROPE,Production,Wood fuel
+WESTERN EUROPE,Production,Wood fuel
+WESTERN EUROPE,Production,Wood fuel
+WESTERN EUROPE,Production,Wood fuel
+WESTERN EUROPE,Production,Sawlogs and veneer logs
+WESTERN EUROPE,Production,Sawlogs and veneer logs
+WESTERN EUROPE,Production,Sawlogs and veneer logs
+WESTERN EUROPE,Production,Sawlogs and veneer logs
+WESTERN EUROPE,Production,Sawlogs and veneer logs
+WESTERN EUROPE,Production,Pulpwood
+WESTERN EUROPE,Production,Pulpwood
+WESTERN EUROPE,Production,Pulpwood
+WESTERN EUROPE,Production,Pulpwood
+WESTERN EUROPE,Production,Roundwood
+WESTERN EUROPE,Production,Wood chips and particles
+WESTERN EUROPE,Production,Wood chips and particles
+WESTERN EUROPE,Production,Wood chips and particles
+WESTERN EUROPE,Production,Wood chips and particles
+WESTERN EUROPE,Production,Wood chips and particles
+WESTERN EUROPE,Production,Wood residues
+WESTERN EUROPE,Production,Wood residues
+WESTERN EUROPE,Production,Wood residues
+WESTERN EUROPE,Production,Wood residues
+WESTERN EUROPE,Production,Other agglomerates
+WESTERN EUROPE,Production,Other agglomerates
+WESTERN EUROPE,Production,Other agglomerates
+WESTERN EUROPE,Production,Sawnwood
+WESTERN EUROPE,Production,Sawnwood
+WESTERN EUROPE,Production,Sawnwood
+WESTERN EUROPE,Production,Sawnwood
+WESTERN EUROPE,Production,Sawnwood
+WESTERN EUROPE,Production,Veneer sheets
+WESTERN EUROPE,Production,Veneer sheets
+WESTERN EUROPE,Production,Plywood
+WESTERN EUROPE,Production,Plywood
+WESTERN EUROPE,Production,Plywood
+WESTERN EUROPE,Production,Plywood
+WESTERN EUROPE,Production,Particle board
+WESTERN EUROPE,Production,Particle board
+WESTERN EUROPE,Production,Particle board
+WESTERN EUROPE,Production,Particle board
+WESTERN EUROPE,Production,OSB
+WESTERN EUROPE,Production,Hardboard
+WESTERN EUROPE,Production,Hardboard
+WESTERN EUROPE,Production,Hardboard
+WESTERN EUROPE,Production,MDF/HDF
+WESTERN EUROPE,Production,MDF/HDF
+WESTERN EUROPE,Production,MDF/HDF
+WESTERN EUROPE,Production,MDF/HDF
+WESTERN EUROPE,Production,Other fibreboard
+WESTERN EUROPE,Production,Wood pulp
+WESTERN EUROPE,Production,Wood pulp
+WESTERN EUROPE,Production,Wood pulp
+WESTERN EUROPE,Production,Wood pulp
+WESTERN EUROPE,Production,Pulp from fibres other than wood
+WESTERN EUROPE,Production,Paper
+WESTERN EUROPE,Production,Paper
+WESTERN EUROPE,Production,Paper
+WESTERN EUROPE,Production,Paper
+WESTERN EUROPE,Production,Newsprint
+WESTERN EUROPE,Production,Newsprint
+WESTERN EUROPE,Production,Newsprint
+WESTERN EUROPE,Production,Newsprint
+WESTERN EUROPE,Production,Case materials
+WESTERN EUROPE,Production,Case materials
+WESTERN EUROPE,Production,Case materials
+WESTERN EUROPE,Production,Case materials
+WESTERN EUROPE,Production,Cartonboard
+WESTERN EUROPE,Production,Cartonboard
+WESTERN EUROPE,Production,Cartonboard
+WESTERN EUROPE,Production,Cartonboard
+WESTERN EUROPE,Import Quantity,Wood fuel
+WESTERN EUROPE,Import Quantity,Wood fuel
+WESTERN EUROPE,Import Quantity,Wood fuel
+WESTERN EUROPE,Import Quantity,Wood fuel
+WESTERN EUROPE,Import Quantity,Roundwood
+WESTERN EUROPE,Import Quantity,Roundwood
+WESTERN EUROPE,Import Quantity,Roundwood
+WESTERN EUROPE,Import Quantity,Roundwood
+WESTERN EUROPE,Import Quantity,Roundwood
+WESTERN EUROPE,Import Quantity,Wood chips and particles
+WESTERN EUROPE,Import Quantity,Wood chips and particles
+WESTERN EUROPE,Import Quantity,Wood chips and particles
+WESTERN EUROPE,Import Quantity,Wood chips and particles
+WESTERN EUROPE,Import Quantity,Wood residues
+WESTERN EUROPE,Import Quantity,Wood residues
+WESTERN EUROPE,Import Quantity,Wood residues
+WESTERN EUROPE,Import Quantity,Wood residues
+WESTERN EUROPE,Import Quantity,Other agglomerates
+WESTERN EUROPE,Import Quantity,Other agglomerates
+WESTERN EUROPE,Import Quantity,Other agglomerates
+WESTERN EUROPE,Import Quantity,Sawnwood
+WESTERN EUROPE,Import Quantity,Sawnwood
+WESTERN EUROPE,Import Quantity,Sawnwood
+WESTERN EUROPE,Import Quantity,Sawnwood
+WESTERN EUROPE,Import Quantity,Veneer sheets
+WESTERN EUROPE,Import Quantity,Veneer sheets
+WESTERN EUROPE,Import Quantity,Veneer sheets
+WESTERN EUROPE,Import Quantity,Plywood
+WESTERN EUROPE,Import Quantity,Plywood
+WESTERN EUROPE,Import Quantity,Plywood
+WESTERN EUROPE,Import Quantity,Particle board
+WESTERN EUROPE,Import Quantity,Particle board
+WESTERN EUROPE,Import Quantity,Particle board
+WESTERN EUROPE,Import Quantity,OSB
+WESTERN EUROPE,Import Quantity,OSB
+WESTERN EUROPE,Import Quantity,OSB
+WESTERN EUROPE,Import Quantity,Hardboard
+WESTERN EUROPE,Import Quantity,Hardboard
+WESTERN EUROPE,Import Quantity,Hardboard
+WESTERN EUROPE,Import Quantity,MDF/HDF
+WESTERN EUROPE,Import Quantity,MDF/HDF
+WESTERN EUROPE,Import Quantity,MDF/HDF
+WESTERN EUROPE,Import Quantity,Other fibreboard
+WESTERN EUROPE,Import Quantity,Other fibreboard
+WESTERN EUROPE,Import Quantity,Other fibreboard
+WESTERN EUROPE,Import Quantity,Wood pulp
+WESTERN EUROPE,Import Quantity,Wood pulp
+WESTERN EUROPE,Import Quantity,Wood pulp
+WESTERN EUROPE,Import Quantity,Pulp from fibres other than wood
+WESTERN EUROPE,Import Quantity,Pulp from fibres other than wood
+WESTERN EUROPE,Import Quantity,Pulp from fibres other than wood
+WESTERN EUROPE,Import Quantity,Paper
+WESTERN EUROPE,Import Quantity,Paper
+WESTERN EUROPE,Import Quantity,Paper
+WESTERN EUROPE,Import Quantity,Paper
+WESTERN EUROPE,Import Quantity,Newsprint
+WESTERN EUROPE,Import Quantity,Newsprint
+WESTERN EUROPE,Import Quantity,Newsprint
+WESTERN EUROPE,Import Quantity,Case materials
+WESTERN EUROPE,Import Quantity,Case materials
+WESTERN EUROPE,Import Quantity,Case materials
+WESTERN EUROPE,Import Quantity,Case materials
+WESTERN EUROPE,Import Quantity,Cartonboard
+WESTERN EUROPE,Import Quantity,Cartonboard
+WESTERN EUROPE,Import Quantity,Cartonboard
+WESTERN EUROPE,Export Quantity,Wood fuel
+WESTERN EUROPE,Export Quantity,Wood fuel
+WESTERN EUROPE,Export Quantity,Wood fuel
+WESTERN EUROPE,Export Quantity,Roundwood
+WESTERN EUROPE,Export Quantity,Roundwood
+WESTERN EUROPE,Export Quantity,Roundwood
+WESTERN EUROPE,Export Quantity,Roundwood
+WESTERN EUROPE,Export Quantity,Wood chips and particles
+WESTERN EUROPE,Export Quantity,Wood chips and particles
+WESTERN EUROPE,Export Quantity,Wood chips and particles
+WESTERN EUROPE,Export Quantity,Wood residues
+WESTERN EUROPE,Export Quantity,Wood residues
+WESTERN EUROPE,Export Quantity,Wood residues
+WESTERN EUROPE,Export Quantity,Wood residues
+WESTERN EUROPE,Export Quantity,Other agglomerates
+WESTERN EUROPE,Export Quantity,Other agglomerates
+WESTERN EUROPE,Export Quantity,Other agglomerates
+WESTERN EUROPE,Export Quantity,Sawnwood
+WESTERN EUROPE,Export Quantity,Sawnwood
+WESTERN EUROPE,Export Quantity,Sawnwood
+WESTERN EUROPE,Export Quantity,Sawnwood
+WESTERN EUROPE,Export Quantity,Sawnwood
+WESTERN EUROPE,Export Quantity,Veneer sheets
+WESTERN EUROPE,Export Quantity,Veneer sheets
+WESTERN EUROPE,Export Quantity,Veneer sheets
+WESTERN EUROPE,Export Quantity,Plywood
+WESTERN EUROPE,Export Quantity,Plywood
+WESTERN EUROPE,Export Quantity,Plywood
+WESTERN EUROPE,Export Quantity,Plywood
+WESTERN EUROPE,Export Quantity,Particle board
+WESTERN EUROPE,Export Quantity,Particle board
+WESTERN EUROPE,Export Quantity,Particle board
+WESTERN EUROPE,Export Quantity,Particle board
+WESTERN EUROPE,Export Quantity,OSB
+WESTERN EUROPE,Export Quantity,OSB
+WESTERN EUROPE,Export Quantity,Hardboard
+WESTERN EUROPE,Export Quantity,Hardboard
+WESTERN EUROPE,Export Quantity,Hardboard
+WESTERN EUROPE,Export Quantity,MDF/HDF
+WESTERN EUROPE,Export Quantity,MDF/HDF
+WESTERN EUROPE,Export Quantity,MDF/HDF
+WESTERN EUROPE,Export Quantity,MDF/HDF
+WESTERN EUROPE,Export Quantity,Other fibreboard
+WESTERN EUROPE,Export Quantity,Other fibreboard
+WESTERN EUROPE,Export Quantity,Wood pulp
+WESTERN EUROPE,Export Quantity,Pulp from fibres other than wood
+WESTERN EUROPE,Export Quantity,Pulp from fibres other than wood
+WESTERN EUROPE,Export Quantity,Paper
+WESTERN EUROPE,Export Quantity,Paper
+WESTERN EUROPE,Export Quantity,Paper
+WESTERN EUROPE,Export Quantity,Paper
+WESTERN EUROPE,Export Quantity,Newsprint
+WESTERN EUROPE,Export Quantity,Newsprint
+WESTERN EUROPE,Export Quantity,Newsprint
+WESTERN EUROPE,Export Quantity,Case materials
+WESTERN EUROPE,Export Quantity,Case materials
+WESTERN EUROPE,Export Quantity,Case materials
+WESTERN EUROPE,Export Quantity,Case materials
+WESTERN EUROPE,Export Quantity,Cartonboard
+WESTERN EUROPE,Export Quantity,Cartonboard
+WESTERN EUROPE,Export Quantity,Cartonboard
+WESTERN EUROPE,Export Quantity,Cartonboard
+NEAR EAST,Production,Wood fuel
+NEAR EAST,Production,Paper
+NEAR EAST,Production,Paper
+NEAR EAST,Production,Paper
+NEAR EAST,Production,Sawlogs and veneer logs
+NEAR EAST,Production,Sawlogs and veneer logs
+NEAR EAST,Production,Pulpwood
+NEAR EAST,Production,Roundwood
+NEAR EAST,Production,Wood chips and particles
+NEAR EAST,Production,Wood chips and particles
+NEAR EAST,Production,Wood residues
+NEAR EAST,Production,Wood residues
+NEAR EAST,Production,Other agglomerates
+NEAR EAST,Production,Sawnwood
+NEAR EAST,Production,Sawnwood
+NEAR EAST,Production,Veneer sheets
+NEAR EAST,Production,Veneer sheets
+NEAR EAST,Production,Plywood
+NEAR EAST,Production,Particle board
+NEAR EAST,Production,OSB
+NEAR EAST,Production,Hardboard
+NEAR EAST,Production,MDF/HDF
+NEAR EAST,Production,Other fibreboard
+NEAR EAST,Production,Wood pulp
+NEAR EAST,Production,Pulp from fibres other than wood
+NEAR EAST,Production,Newsprint
+NEAR EAST,Production,Case materials
+NEAR EAST,Production,Cartonboard
+NEAR EAST,Import Quantity,Wood fuel
+NEAR EAST,Import Quantity,Wood fuel
+NEAR EAST,Import Quantity,Roundwood
+NEAR EAST,Import Quantity,Roundwood
+NEAR EAST,Import Quantity,Roundwood
+NEAR EAST,Import Quantity,Wood chips and particles
+NEAR EAST,Import Quantity,Wood chips and particles
+NEAR EAST,Import Quantity,Wood residues
+NEAR EAST,Import Quantity,Wood residues
+NEAR EAST,Import Quantity,Sawnwood
+NEAR EAST,Import Quantity,Sawnwood
+NEAR EAST,Import Quantity,Sawnwood
+NEAR EAST,Import Quantity,Veneer sheets
+NEAR EAST,Import Quantity,Veneer sheets
+NEAR EAST,Import Quantity,Plywood
+NEAR EAST,Import Quantity,Plywood
+NEAR EAST,Import Quantity,Plywood
+NEAR EAST,Import Quantity,Particle board
+NEAR EAST,Import Quantity,Particle board
+NEAR EAST,Import Quantity,OSB
+NEAR EAST,Import Quantity,OSB
+NEAR EAST,Import Quantity,Hardboard
+NEAR EAST,Import Quantity,Hardboard
+NEAR EAST,Import Quantity,MDF/HDF
+NEAR EAST,Import Quantity,MDF/HDF
+NEAR EAST,Import Quantity,MDF/HDF
+NEAR EAST,Import Quantity,Other fibreboard
+NEAR EAST,Import Quantity,Other fibreboard
+NEAR EAST,Import Quantity,Wood pulp
+NEAR EAST,Import Quantity,Wood pulp
+NEAR EAST,Import Quantity,Pulp from fibres other than wood
+NEAR EAST,Import Quantity,Paper
+NEAR EAST,Import Quantity,Paper
+NEAR EAST,Import Quantity,Newsprint
+NEAR EAST,Import Quantity,Newsprint
+NEAR EAST,Import Quantity,Case materials
+NEAR EAST,Import Quantity,Case materials
+NEAR EAST,Import Quantity,Cartonboard
+NEAR EAST,Import Quantity,Cartonboard
+NEAR EAST,Import Quantity,Cartonboard
+NEAR EAST,Import Quantity,Other agglomerates
+NEAR EAST,Import Quantity,Other agglomerates
+NEAR EAST,Export Quantity,Wood fuel
+NEAR EAST,Export Quantity,Roundwood
+NEAR EAST,Export Quantity,Roundwood
+NEAR EAST,Export Quantity,Wood chips and particles
+NEAR EAST,Export Quantity,Wood residues
+NEAR EAST,Export Quantity,Wood residues
+NEAR EAST,Export Quantity,Sawnwood
+NEAR EAST,Export Quantity,Sawnwood
+NEAR EAST,Export Quantity,Veneer sheets
+NEAR EAST,Export Quantity,Plywood
+NEAR EAST,Export Quantity,Plywood
+NEAR EAST,Export Quantity,Particle board
+NEAR EAST,Export Quantity,Hardboard
+NEAR EAST,Export Quantity,MDF/HDF
+NEAR EAST,Export Quantity,Other fibreboard
+NEAR EAST,Export Quantity,Wood pulp
+NEAR EAST,Export Quantity,Pulp from fibres other than wood
+NEAR EAST,Export Quantity,Paper
+NEAR EAST,Export Quantity,Paper
+NEAR EAST,Export Quantity,Paper
+NEAR EAST,Export Quantity,Newsprint
+NEAR EAST,Export Quantity,Case materials
+NEAR EAST,Export Quantity,Cartonboard
+NEAR EAST,Export Quantity,Other agglomerates
+NEAR EAST,Export Quantity,OSB
+EASTERN EUROPE,Production,Wood fuel
+EASTERN EUROPE,Production,Wood fuel
+EASTERN EUROPE,Production,Wood fuel
+EASTERN EUROPE,Production,Wood fuel
+EASTERN EUROPE,Production,Sawlogs and veneer logs
+EASTERN EUROPE,Production,Sawlogs and veneer logs
+EASTERN EUROPE,Production,Sawlogs and veneer logs
+EASTERN EUROPE,Production,Sawlogs and veneer logs
+EASTERN EUROPE,Production,Pulpwood
+EASTERN EUROPE,Production,Pulpwood
+EASTERN EUROPE,Production,Pulpwood
+EASTERN EUROPE,Production,Pulpwood
+EASTERN EUROPE,Production,Roundwood
+EASTERN EUROPE,Production,Roundwood
+EASTERN EUROPE,Production,Roundwood
+EASTERN EUROPE,Production,Wood chips and particles
+EASTERN EUROPE,Production,Wood chips and particles
+EASTERN EUROPE,Production,Wood chips and particles
+EASTERN EUROPE,Production,Wood chips and particles
+EASTERN EUROPE,Production,Wood residues
+EASTERN EUROPE,Production,Wood residues
+EASTERN EUROPE,Production,Wood residues
+EASTERN EUROPE,Production,Other agglomerates
+EASTERN EUROPE,Production,Other agglomerates
+EASTERN EUROPE,Production,Sawnwood
+EASTERN EUROPE,Production,Sawnwood
+EASTERN EUROPE,Production,Sawnwood
+EASTERN EUROPE,Production,Sawnwood
+EASTERN EUROPE,Production,Veneer sheets
+EASTERN EUROPE,Production,Veneer sheets
+EASTERN EUROPE,Production,Veneer sheets
+EASTERN EUROPE,Production,Plywood
+EASTERN EUROPE,Production,Plywood
+EASTERN EUROPE,Production,Plywood
+EASTERN EUROPE,Production,Particle board
+EASTERN EUROPE,Production,Particle board
+EASTERN EUROPE,Production,Particle board
+EASTERN EUROPE,Production,Particle board
+EASTERN EUROPE,Production,OSB
+EASTERN EUROPE,Production,OSB
+EASTERN EUROPE,Production,OSB
+EASTERN EUROPE,Production,Hardboard
+EASTERN EUROPE,Production,Hardboard
+EASTERN EUROPE,Production,Hardboard
+EASTERN EUROPE,Production,MDF/HDF
+EASTERN EUROPE,Production,MDF/HDF
+EASTERN EUROPE,Production,Other fibreboard
+EASTERN EUROPE,Production,Wood pulp
+EASTERN EUROPE,Production,Pulp from fibres other than wood
+EASTERN EUROPE,Production,Paper
+EASTERN EUROPE,Production,Paper
+EASTERN EUROPE,Production,Paper
+EASTERN EUROPE,Production,Newsprint
+EASTERN EUROPE,Production,Case materials
+EASTERN EUROPE,Production,Case materials
+EASTERN EUROPE,Production,Case materials
+EASTERN EUROPE,Production,Cartonboard
+EASTERN EUROPE,Import Quantity,Wood fuel
+EASTERN EUROPE,Import Quantity,Wood fuel
+EASTERN EUROPE,Import Quantity,Roundwood
+EASTERN EUROPE,Import Quantity,Roundwood
+EASTERN EUROPE,Import Quantity,Wood chips and particles
+EASTERN EUROPE,Import Quantity,Wood chips and particles
+EASTERN EUROPE,Import Quantity,Wood residues
+EASTERN EUROPE,Import Quantity,Wood residues
+EASTERN EUROPE,Import Quantity,Other agglomerates
+EASTERN EUROPE,Import Quantity,Other agglomerates
+EASTERN EUROPE,Import Quantity,Sawnwood
+EASTERN EUROPE,Import Quantity,Sawnwood
+EASTERN EUROPE,Import Quantity,Sawnwood
+EASTERN EUROPE,Import Quantity,Veneer sheets
+EASTERN EUROPE,Import Quantity,Veneer sheets
+EASTERN EUROPE,Import Quantity,Veneer sheets
+EASTERN EUROPE,Import Quantity,Plywood
+EASTERN EUROPE,Import Quantity,Plywood
+EASTERN EUROPE,Import Quantity,Plywood
+EASTERN EUROPE,Import Quantity,Particle board
+EASTERN EUROPE,Import Quantity,Particle board
+EASTERN EUROPE,Import Quantity,Particle board
+EASTERN EUROPE,Import Quantity,OSB
+EASTERN EUROPE,Import Quantity,OSB
+EASTERN EUROPE,Import Quantity,OSB
+EASTERN EUROPE,Import Quantity,Hardboard
+EASTERN EUROPE,Import Quantity,Hardboard
+EASTERN EUROPE,Import Quantity,Hardboard
+EASTERN EUROPE,Import Quantity,MDF/HDF
+EASTERN EUROPE,Import Quantity,MDF/HDF
+EASTERN EUROPE,Import Quantity,MDF/HDF
+EASTERN EUROPE,Import Quantity,Other fibreboard
+EASTERN EUROPE,Import Quantity,Other fibreboard
+EASTERN EUROPE,Import Quantity,Wood pulp
+EASTERN EUROPE,Import Quantity,Pulp from fibres other than wood
+EASTERN EUROPE,Import Quantity,Pulp from fibres other than wood
+EASTERN EUROPE,Import Quantity,Paper
+EASTERN EUROPE,Import Quantity,Paper
+EASTERN EUROPE,Import Quantity,Paper
+EASTERN EUROPE,Import Quantity,Newsprint
+EASTERN EUROPE,Import Quantity,Newsprint
+EASTERN EUROPE,Import Quantity,Newsprint
+EASTERN EUROPE,Import Quantity,Case materials
+EASTERN EUROPE,Import Quantity,Case materials
+EASTERN EUROPE,Import Quantity,Case materials
+EASTERN EUROPE,Import Quantity,Cartonboard
+EASTERN EUROPE,Import Quantity,Cartonboard
+EASTERN EUROPE,Import Quantity,Cartonboard
+EASTERN EUROPE,Export Quantity,Wood fuel
+EASTERN EUROPE,Export Quantity,Wood fuel
+EASTERN EUROPE,Export Quantity,Wood fuel
+EASTERN EUROPE,Export Quantity,Roundwood
+EASTERN EUROPE,Export Quantity,Roundwood
+EASTERN EUROPE,Export Quantity,Roundwood
+EASTERN EUROPE,Export Quantity,Wood chips and particles
+EASTERN EUROPE,Export Quantity,Wood chips and particles
+EASTERN EUROPE,Export Quantity,Wood chips and particles
+EASTERN EUROPE,Export Quantity,Wood chips and particles
+EASTERN EUROPE,Export Quantity,Wood residues
+EASTERN EUROPE,Export Quantity,Wood residues
+EASTERN EUROPE,Export Quantity,Other agglomerates
+EASTERN EUROPE,Export Quantity,Other agglomerates
+EASTERN EUROPE,Export Quantity,Sawnwood
+EASTERN EUROPE,Export Quantity,Sawnwood
+EASTERN EUROPE,Export Quantity,Sawnwood
+EASTERN EUROPE,Export Quantity,Veneer sheets
+EASTERN EUROPE,Export Quantity,Veneer sheets
+EASTERN EUROPE,Export Quantity,Veneer sheets
+EASTERN EUROPE,Export Quantity,Plywood
+EASTERN EUROPE,Export Quantity,Plywood
+EASTERN EUROPE,Export Quantity,Plywood
+EASTERN EUROPE,Export Quantity,Particle board
+EASTERN EUROPE,Export Quantity,Particle board
+EASTERN EUROPE,Export Quantity,Particle board
+EASTERN EUROPE,Export Quantity,OSB
+EASTERN EUROPE,Export Quantity,OSB
+EASTERN EUROPE,Export Quantity,OSB
+EASTERN EUROPE,Export Quantity,Hardboard
+EASTERN EUROPE,Export Quantity,Hardboard
+EASTERN EUROPE,Export Quantity,Hardboard
+EASTERN EUROPE,Export Quantity,MDF/HDF
+EASTERN EUROPE,Export Quantity,MDF/HDF
+EASTERN EUROPE,Export Quantity,Other fibreboard
+EASTERN EUROPE,Export Quantity,Other fibreboard
+EASTERN EUROPE,Export Quantity,Wood pulp
+EASTERN EUROPE,Export Quantity,Pulp from fibres other than wood
+EASTERN EUROPE,Export Quantity,Paper
+EASTERN EUROPE,Export Quantity,Paper
+EASTERN EUROPE,Export Quantity,Paper
+EASTERN EUROPE,Export Quantity,Newsprint
+EASTERN EUROPE,Export Quantity,Newsprint
+EASTERN EUROPE,Export Quantity,Case materials
+EASTERN EUROPE,Export Quantity,Case materials
+EASTERN EUROPE,Export Quantity,Case materials
+EASTERN EUROPE,Export Quantity,Cartonboard
+EASTERN EUROPE,Export Quantity,Cartonboard
+NORTHERN AFRICA,Production,Wood fuel
+NORTHERN AFRICA,Production,Sawlogs and veneer logs
+NORTHERN AFRICA,Production,Sawlogs and veneer logs
+NORTHERN AFRICA,Production,Sawlogs and veneer logs
+NORTHERN AFRICA,Production,Sawlogs and veneer logs
+NORTHERN AFRICA,Production,Roundwood
+NORTHERN AFRICA,Production,Sawnwood
+NORTHERN AFRICA,Production,Veneer sheets
+NORTHERN AFRICA,Production,Veneer sheets
+NORTHERN AFRICA,Production,Veneer sheets
+NORTHERN AFRICA,Production,Plywood
+NORTHERN AFRICA,Production,Plywood
+NORTHERN AFRICA,Production,Plywood
+NORTHERN AFRICA,Production,Particle board
+NORTHERN AFRICA,Production,Paper
+NORTHERN AFRICA,Production,Paper
+NORTHERN AFRICA,Production,Wood chips and particles
+NORTHERN AFRICA,Production,Wood chips and particles
+NORTHERN AFRICA,Production,MDF/HDF
+NORTHERN AFRICA,Production,MDF/HDF
+NORTHERN AFRICA,Production,MDF/HDF
+NORTHERN AFRICA,Production,Other fibreboard
+NORTHERN AFRICA,Production,Wood pulp
+NORTHERN AFRICA,Production,Wood pulp
+NORTHERN AFRICA,Production,Wood pulp
+NORTHERN AFRICA,Production,Pulp from fibres other than wood
+NORTHERN AFRICA,Production,Pulp from fibres other than wood
+NORTHERN AFRICA,Production,Pulp from fibres other than wood
+NORTHERN AFRICA,Production,Case materials
+NORTHERN AFRICA,Production,Case materials
+NORTHERN AFRICA,Production,Case materials
+NORTHERN AFRICA,Production,Cartonboard
+NORTHERN AFRICA,Production,Cartonboard
+NORTHERN AFRICA,Production,Cartonboard
+NORTHERN AFRICA,Production,Pulpwood
+NORTHERN AFRICA,Production,Newsprint
+NORTHERN AFRICA,Production,Wood residues
+NORTHERN AFRICA,Production,Wood residues
+NORTHERN AFRICA,Production,Wood residues
+NORTHERN AFRICA,Production,Hardboard
+NORTHERN AFRICA,Import Quantity,Wood fuel
+NORTHERN AFRICA,Import Quantity,Wood fuel
+NORTHERN AFRICA,Import Quantity,Roundwood
+NORTHERN AFRICA,Import Quantity,Roundwood
+NORTHERN AFRICA,Import Quantity,Wood chips and particles
+NORTHERN AFRICA,Import Quantity,Wood chips and particles
+NORTHERN AFRICA,Import Quantity,Wood residues
+NORTHERN AFRICA,Import Quantity,Sawnwood
+NORTHERN AFRICA,Import Quantity,Sawnwood
+NORTHERN AFRICA,Import Quantity,Veneer sheets
+NORTHERN AFRICA,Import Quantity,Plywood
+NORTHERN AFRICA,Import Quantity,Plywood
+NORTHERN AFRICA,Import Quantity,Particle board
+NORTHERN AFRICA,Import Quantity,OSB
+NORTHERN AFRICA,Import Quantity,Hardboard
+NORTHERN AFRICA,Import Quantity,MDF/HDF
+NORTHERN AFRICA,Import Quantity,MDF/HDF
+NORTHERN AFRICA,Import Quantity,Other fibreboard
+NORTHERN AFRICA,Import Quantity,Wood pulp
+NORTHERN AFRICA,Import Quantity,Wood pulp
+NORTHERN AFRICA,Import Quantity,Pulp from fibres other than wood
+NORTHERN AFRICA,Import Quantity,Paper
+NORTHERN AFRICA,Import Quantity,Paper
+NORTHERN AFRICA,Import Quantity,Newsprint
+NORTHERN AFRICA,Import Quantity,Newsprint
+NORTHERN AFRICA,Import Quantity,Case materials
+NORTHERN AFRICA,Import Quantity,Case materials
+NORTHERN AFRICA,Import Quantity,Case materials
+NORTHERN AFRICA,Import Quantity,Cartonboard
+NORTHERN AFRICA,Import Quantity,Cartonboard
+NORTHERN AFRICA,Export Quantity,Wood fuel
+NORTHERN AFRICA,Export Quantity,Wood fuel
+NORTHERN AFRICA,Export Quantity,Roundwood
+NORTHERN AFRICA,Export Quantity,Roundwood
+NORTHERN AFRICA,Export Quantity,Wood chips and particles
+NORTHERN AFRICA,Export Quantity,Wood chips and particles
+NORTHERN AFRICA,Export Quantity,Wood residues
+NORTHERN AFRICA,Export Quantity,Wood residues
+NORTHERN AFRICA,Export Quantity,Sawnwood
+NORTHERN AFRICA,Export Quantity,Sawnwood
+NORTHERN AFRICA,Export Quantity,Veneer sheets
+NORTHERN AFRICA,Export Quantity,Veneer sheets
+NORTHERN AFRICA,Export Quantity,Veneer sheets
+NORTHERN AFRICA,Export Quantity,Plywood
+NORTHERN AFRICA,Export Quantity,Plywood
+NORTHERN AFRICA,Export Quantity,Plywood
+NORTHERN AFRICA,Export Quantity,Particle board
+NORTHERN AFRICA,Export Quantity,Hardboard
+NORTHERN AFRICA,Export Quantity,MDF/HDF
+NORTHERN AFRICA,Export Quantity,Other fibreboard
+NORTHERN AFRICA,Export Quantity,Wood pulp
+NORTHERN AFRICA,Export Quantity,Wood pulp
+NORTHERN AFRICA,Export Quantity,Paper
+NORTHERN AFRICA,Export Quantity,Paper
+NORTHERN AFRICA,Export Quantity,Newsprint
+NORTHERN AFRICA,Export Quantity,Case materials
+NORTHERN AFRICA,Export Quantity,Case materials
+NORTHERN AFRICA,Export Quantity,Cartonboard
+NORTHERN AFRICA,Export Quantity,Cartonboard
+NORTHERN AFRICA,Export Quantity,OSB
+NORTHERN AFRICA,Export Quantity,OSB
+NORTHERN AFRICA,Export Quantity,Pulp from fibres other than wood
+NORTHERN AFRICA,Export Quantity,Other agglomerates
+BALTICS,Production,Wood fuel
+BALTICS,Production,Wood fuel
+BALTICS,Production,Wood fuel
+BALTICS,Production,Wood fuel
+BALTICS,Production,Sawlogs and veneer logs
+BALTICS,Production,Sawlogs and veneer logs
+BALTICS,Production,Sawlogs and veneer logs
+BALTICS,Production,Sawlogs and veneer logs
+BALTICS,Production,Pulpwood
+BALTICS,Production,Pulpwood
+BALTICS,Production,Pulpwood
+BALTICS,Production,Pulpwood
+BALTICS,Production,Roundwood
+BALTICS,Production,Roundwood
+BALTICS,Production,Roundwood
+BALTICS,Production,Wood chips and particles
+BALTICS,Production,Wood chips and particles
+BALTICS,Production,Wood chips and particles
+BALTICS,Production,Wood chips and particles
+BALTICS,Production,Wood residues
+BALTICS,Production,Wood residues
+BALTICS,Production,Wood residues
+BALTICS,Production,Wood residues
+BALTICS,Production,Other agglomerates
+BALTICS,Production,Other agglomerates
+BALTICS,Production,Other agglomerates
+BALTICS,Production,Sawnwood
+BALTICS,Production,Sawnwood
+BALTICS,Production,Sawnwood
+BALTICS,Production,Sawnwood
+BALTICS,Production,Veneer sheets
+BALTICS,Production,Veneer sheets
+BALTICS,Production,Veneer sheets
+BALTICS,Production,Plywood
+BALTICS,Production,Plywood
+BALTICS,Production,Plywood
+BALTICS,Production,Particle board
+BALTICS,Production,Particle board
+BALTICS,Production,Particle board
+BALTICS,Production,OSB
+BALTICS,Production,Hardboard
+BALTICS,Production,MDF/HDF
+BALTICS,Production,Other fibreboard
+BALTICS,Production,Other fibreboard
+BALTICS,Production,Other fibreboard
+BALTICS,Production,Wood pulp
+BALTICS,Production,Pulp from fibres other than wood
+BALTICS,Production,Paper
+BALTICS,Production,Paper
+BALTICS,Production,Paper
+BALTICS,Production,Newsprint
+BALTICS,Production,Case materials
+BALTICS,Production,Cartonboard
+BALTICS,Production,Cartonboard
+BALTICS,Import Quantity,Wood fuel
+BALTICS,Import Quantity,Wood fuel
+BALTICS,Import Quantity,Wood fuel
+BALTICS,Import Quantity,Roundwood
+BALTICS,Import Quantity,Roundwood
+BALTICS,Import Quantity,Roundwood
+BALTICS,Import Quantity,Wood chips and particles
+BALTICS,Import Quantity,Wood chips and particles
+BALTICS,Import Quantity,Wood chips and particles
+BALTICS,Import Quantity,Wood residues
+BALTICS,Import Quantity,Wood residues
+BALTICS,Import Quantity,Wood residues
+BALTICS,Import Quantity,Other agglomerates
+BALTICS,Import Quantity,Other agglomerates
+BALTICS,Import Quantity,Sawnwood
+BALTICS,Import Quantity,Sawnwood
+BALTICS,Import Quantity,Sawnwood
+BALTICS,Import Quantity,Sawnwood
+BALTICS,Import Quantity,Veneer sheets
+BALTICS,Import Quantity,Veneer sheets
+BALTICS,Import Quantity,Plywood
+BALTICS,Import Quantity,Plywood
+BALTICS,Import Quantity,Plywood
+BALTICS,Import Quantity,Particle board
+BALTICS,Import Quantity,Particle board
+BALTICS,Import Quantity,Particle board
+BALTICS,Import Quantity,OSB
+BALTICS,Import Quantity,OSB
+BALTICS,Import Quantity,OSB
+BALTICS,Import Quantity,Hardboard
+BALTICS,Import Quantity,Hardboard
+BALTICS,Import Quantity,Hardboard
+BALTICS,Import Quantity,MDF/HDF
+BALTICS,Import Quantity,MDF/HDF
+BALTICS,Import Quantity,MDF/HDF
+BALTICS,Import Quantity,Other fibreboard
+BALTICS,Import Quantity,Other fibreboard
+BALTICS,Import Quantity,Wood pulp
+BALTICS,Import Quantity,Pulp from fibres other than wood
+BALTICS,Import Quantity,Paper
+BALTICS,Import Quantity,Paper
+BALTICS,Import Quantity,Newsprint
+BALTICS,Import Quantity,Newsprint
+BALTICS,Import Quantity,Newsprint
+BALTICS,Import Quantity,Case materials
+BALTICS,Import Quantity,Case materials
+BALTICS,Import Quantity,Case materials
+BALTICS,Import Quantity,Cartonboard
+BALTICS,Import Quantity,Cartonboard
+BALTICS,Import Quantity,Cartonboard
+BALTICS,Export Quantity,Wood fuel
+BALTICS,Export Quantity,Wood fuel
+BALTICS,Export Quantity,Wood fuel
+BALTICS,Export Quantity,Wood fuel
+BALTICS,Export Quantity,Roundwood
+BALTICS,Export Quantity,Roundwood
+BALTICS,Export Quantity,Roundwood
+BALTICS,Export Quantity,Roundwood
+BALTICS,Export Quantity,Wood chips and particles
+BALTICS,Export Quantity,Wood chips and particles
+BALTICS,Export Quantity,Wood chips and particles
+BALTICS,Export Quantity,Wood chips and particles
+BALTICS,Export Quantity,Wood residues
+BALTICS,Export Quantity,Wood residues
+BALTICS,Export Quantity,Wood residues
+BALTICS,Export Quantity,Other agglomerates
+BALTICS,Export Quantity,Other agglomerates
+BALTICS,Export Quantity,Sawnwood
+BALTICS,Export Quantity,Sawnwood
+BALTICS,Export Quantity,Sawnwood
+BALTICS,Export Quantity,Sawnwood
+BALTICS,Export Quantity,Veneer sheets
+BALTICS,Export Quantity,Veneer sheets
+BALTICS,Export Quantity,Veneer sheets
+BALTICS,Export Quantity,Plywood
+BALTICS,Export Quantity,Plywood
+BALTICS,Export Quantity,Plywood
+BALTICS,Export Quantity,Particle board
+BALTICS,Export Quantity,Particle board
+BALTICS,Export Quantity,Particle board
+BALTICS,Export Quantity,OSB
+BALTICS,Export Quantity,OSB
+BALTICS,Export Quantity,Hardboard
+BALTICS,Export Quantity,Hardboard
+BALTICS,Export Quantity,MDF/HDF
+BALTICS,Export Quantity,MDF/HDF
+BALTICS,Export Quantity,MDF/HDF
+BALTICS,Export Quantity,Other fibreboard
+BALTICS,Export Quantity,Other fibreboard
+BALTICS,Export Quantity,Other fibreboard
+BALTICS,Export Quantity,Wood pulp
+BALTICS,Export Quantity,Pulp from fibres other than wood
+BALTICS,Export Quantity,Pulp from fibres other than wood
+BALTICS,Export Quantity,Paper
+BALTICS,Export Quantity,Paper
+BALTICS,Export Quantity,Paper
+BALTICS,Export Quantity,Newsprint
+BALTICS,Export Quantity,Case materials
+BALTICS,Export Quantity,Case materials
+BALTICS,Export Quantity,Case materials
+BALTICS,Export Quantity,Cartonboard
+BALTICS,Export Quantity,Cartonboard
